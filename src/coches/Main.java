@@ -7,4 +7,5 @@ class Main {
         System.out.println("Su motor es de marca " + vehiculo.motor.marca);
     }
 
+
 }

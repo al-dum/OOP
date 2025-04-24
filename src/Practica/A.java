@@ -5,4 +5,5 @@ public class A implements E{
     public void setSalary(String salary) {
 
     }
+
 }

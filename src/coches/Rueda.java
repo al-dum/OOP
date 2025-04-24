@@ -5,10 +5,4 @@ class Rueda {
     Rueda(String marca) {
         this.marca = marca;
     }
-
-
-
-
-
-
 }

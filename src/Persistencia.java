@@ -11,7 +11,6 @@ public Persistencia(String filename){
     this.filename=filename;
 }
 
-
 public void serialize(List l){
     try{
         FileOutputStream fo = new FileOutputStream("cde.tmp");

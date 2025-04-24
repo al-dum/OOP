@@ -75,7 +75,6 @@ public class Menu {
         Animal animal = null;
         animales.add(animal);
     }
-
     public void read(){
         for(int i =0; i< animales.size(); i++){
             System.out.println(animales.get(i).getNombre());

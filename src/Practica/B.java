@@ -5,4 +5,5 @@ abstract class B {
     void method1(){;
         System.out.println("B's method1");
     }
+
 }
